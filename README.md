@@ -206,9 +206,9 @@ To use your own JSON data:
 
 ## Author
 
-**Aashish Sah**  
-- GitHub: [@aashishsah005](https://github.com/aashishsah005)
-- Email: aashishsah005@gmail.com
+**Samrat Singh**  
+- GitHub: [@samrat-singh-rajput](https://github.com/samrat-singh-rajput)
+- Email: asrajputchauhan@gmail.com
 
 ---
 
